@@ -6,6 +6,6 @@
 	<title>Welcome to Coursera!</title>
 </head>
 <body>
-	<h1>Welcome to Coursera!</h1>
+	<h1>Welcome to Coursera! It's a great course!</h1>
 </body>
 </html>
