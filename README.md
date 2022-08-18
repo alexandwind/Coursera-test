@@ -6,7 +6,9 @@
 	<title>Welcome to Coursera!</title>
 </head>
 <body>
-	<h1>Welcome to Coursera! It's a great course!
-	{сolor: red;}</h1>
+	<h1>
+{color: red;}
+		Welcome to Coursera! It's a great course!
+	</h1>
 </body>
 </html>
