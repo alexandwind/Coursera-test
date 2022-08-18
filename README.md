@@ -8,6 +8,5 @@
 <body>
 	<h1>Welcome to Coursera! It's a great course!
 	</h1>
-	<h2> {color: red;}</h2>
-</body>
+	</body>
 </html>
